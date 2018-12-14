@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	yaml "gopkg.in/mikefarah/yaml.v2"
+	yaml "github.com/tommyknows/yaml/v2"
 	"gopkg.in/spf13/cobra.v0"
 )
 
