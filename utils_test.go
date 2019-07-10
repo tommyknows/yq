@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	yaml "gopkg.in/mikefarah/yaml.v2"
-	cobra "gopkg.in/spf13/cobra.v0"
+	"github.com/spf13/cobra"
+	yaml "github.com/tommyknows/yaml/v2"
 )
 
 type resulter struct {

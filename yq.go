@@ -14,7 +14,7 @@ import (
 
 	yaml "github.com/tommyknows/yaml/v2"
 	logging "gopkg.in/op/go-logging.v1"
-	cobra "gopkg.in/spf13/cobra.v0"
+	cobra "github.com/spf13/cobra"
 )
 
 var trimOutput = true
